@@ -1,4 +1,5 @@
 # Tic Tac Toe
+# Credits https://techwithtim.net/tutorials/python-programming/tic-tac-toe-tutorial/
 
 board = [' ' for x in range(10)]
 
